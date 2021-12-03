@@ -10,9 +10,9 @@ show_call_box: false
 
 # That's all folks!
 
-13 years and over 70 digital innovation projects for large non-profits such as Save the Children, Mind, Time to Change, Eden Project and Girlguiding.
+13 years and over 70 digital innovation projects delivered for large non-profits such as Mind, vInspired, Save the Children, Time to Change, Eden Project and Girlguiding.
 
-Voted by @GovStart as one of the top 100 companies disrupting the public sector.
+Voted by @GovStart as one of the top 100 UK companies disrupting the public sector.
 
 Thanks for all the fun!
 
