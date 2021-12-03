@@ -43,7 +43,7 @@ bodyClass: "page-teams"
     </div>
     <div class="row pt-6 pb-6">
         {% assign teams = site.team | where: "promoted", empty | sort: "weight" %}
-        {% for team in teams %}
+        {% for team in teams reversed%}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
