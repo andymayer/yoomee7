@@ -1,21 +1,19 @@
 main:
-  - name: "Services"
-    url: "/services/"
-    weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: ""
+  - name: "Alumni"
+    url: "/alumni/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
+  - name: "Memories"
+    url: "https://www.flickr.com/photos/yoomeehq/"
+    weight: 3
   - name: "Contact"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
+  - name: "Alumni"
+    url: "/team/"
+    weight: 3
   - name: "Contact"
     url: "/contact/"
-    weight: 2
+    weight: 5
