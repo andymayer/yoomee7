@@ -93,4 +93,4 @@ This theme is open source under the MIT license. Please be respectful 🙏🏽 L
 ### Other Versions
 
 - [Hugo Serif Theme](https://github.com/zerostaticthemes/hugo-serif-theme) (official)
-- [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official)
+- [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official) 
