@@ -4,7 +4,7 @@ main:
     url: "/alumni/"
     weight: 3
   - name: "Memories"
-    url: "https://www.flickr.com/photos/yoomeehq/"
+    url: "https://www.flickr.com/photos/yoomeehq/albums"
     weight: 3
   - name: "Contact"
     url: "/contact/"
