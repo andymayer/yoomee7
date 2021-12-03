@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Yoomee 2007 – 2019'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile: "images/logo/logo.png"
+  desktop_height: "120px"
+  desktop_width: "150px"
   desktop: "images/logo/logo.png"
   desktop_height: "120px"
   desktop_width: "150px"
