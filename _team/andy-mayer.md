@@ -6,7 +6,7 @@ image: "images/team/andy.jpg"
 jobtitle: "Strategy Director & co-founder"
 linkedinurl: "https://www.linkedin.com/in/andycmayer/"
 promoted: true
-weight: 2020
+weight: 15
 layout: team
 ---
 

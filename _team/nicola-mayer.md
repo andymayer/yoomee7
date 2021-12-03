@@ -6,7 +6,7 @@ image: "images/team/nicola.jpg"
 jobtitle: "Research Director & co-founder"
 linkedinurl: "https://www.linkedin.com/in/nicola-mayer-98468719/"
 promoted: true
-weight: 2020
+weight: 14
 ---
 
 A seasoned communications strategist and practitioner with 20 years’ plus experience, majoring on content creation, user research, support and training. 
