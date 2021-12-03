@@ -12,7 +12,7 @@ main:
 
 footer:
   - name: "Alumni"
-    url: "/team/"
+    url: "/alumni/"
     weight: 3
   - name: "Contact"
     url: "/contact/"
