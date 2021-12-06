@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Alumni
 
-Andy and Nicola recruited and grew Yoomee to be a multi-disciplinary team from 1 to 20 employees, including service designers, software developers and researchers.
+Andy and Nicola grew and developed Yoomee to be a multi-disciplinary team of 20 full-time digital experts, including service designers, software developers, testers and researchers.
